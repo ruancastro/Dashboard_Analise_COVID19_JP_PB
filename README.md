@@ -9,7 +9,8 @@ Imagine que um gestor público entra hoje no Farol e quer ter a possibilidade de
     
 
  - **Abordagem 1** : Numa mesma fonte de dados, como os fornecidos pelo [Farol Covid](https://farolcovid.coronacidades.org/) selecionamos dois municípios quaisquer e comparamos algumas variáveis como o números de mortes, contaminados e recuperados do COVID-19 em um determinado intervalo de tempo.  Essa abordagem é pouco efetiva pois desconsidera fatores relevantes que podem ajudar a entender melhor sobre o comportamento do vírus já que provavelmente estaremos comparando municípios com realidades totalmente diferentes.
- **Abordagem 2** :  Selecionando uma fonte de dados confiável, como o [Farol Covid](https://farolcovid.coronacidades.org/) ou o [Painel Coronavírus](https://covid.saude.gov.br/) podemos então desenvolver um algoritmo para selecionar municípios semelhantes e então comparar os números fornecidos pelos *datasets*. 
+ 
+ - **Abordagem 2** :  Selecionando uma fonte de dados confiável, como o [Farol Covid](https://farolcovid.coronacidades.org/) ou o [Painel Coronavírus](https://covid.saude.gov.br/) podemos então desenvolver um algoritmo para selecionar municípios semelhantes e então comparar os números fornecidos pelos *datasets*. 
 	  A estratificação dos municípios seria feita a partir de diferentes indicadores demográficos, socio-econômicos, condições de saúde e estrutura de serviços que podem ser encontrados no site do [IBGE](https://www.ibge.gov.br/). Alguns dos indicadores mais importantes para essa comparação são:
 
 **Demográficos:**
