@@ -1,5 +1,5 @@
 Método,Município de Residência,Inicio Sintomas,Sexo,Doenças preexistentes,Idade,Data do Óbito
-Swab,Montadas,2020-06-22,Masculino,Sem comorbidades,90,2020-06-28
+Swab,Campina Grande,2020-07-04,Masculino,"Hipertensão,Diabetes Mellitus",59,2020-07-19
 Teste Rápido,Pedras de Fogo,2020-06-18,Masculino,Sem comorbidades,84,2020-08-07
 Teste Rápido,João Pessoa,2020-06-25,Feminino,Doença Renal,95,2020-07-16
 Teste Rápido,Guarabira,2020-06-08,Feminino,Cardiopatia,80,2020-06-22
@@ -22,6 +22,7 @@ Swab,Patos,2020-05-02,Masculino,"Cardiopatia,Obesidade",69,2020-05-24
 Teste Rápido,João Pessoa,2020-05-22,Feminino,"Doença Neurológica,Doença Respiratória",83,2020-06-14
 Swab,Campina Grande,2020-05-06,Feminino,"Doença Neurológica,Outros",90,2020-05-18
 Swab,Campina Grande,2020-06-14,Masculino,Cardiopatia,46,2020-07-17
+Teste Rápido,Cajazeiras,2020-08-06,Masculino,Sem comorbidades,72,2020-08-28
 Swab,Arara,2020-06-08,Masculino,"Hipertensão,Doença Respiratória",76,2020-06-23
 Teste Rápido,João Pessoa,2020-06-29,Feminino,Sem comorbidades,56,2020-07-02
 Swab,Campina Grande,2020-07-16,Feminino,"Hipertensão,Diabetes Mellitus",69,2020-07-29
@@ -55,7 +56,6 @@ Swab,Santa Rita,2020-04-27,Masculino,Sem comorbidades,66,2020-05-07
 Swab,Patos,2020-05-28,Feminino,Hipertensão,70,2020-07-06
 Swab,Guarabira,2020-05-31,Masculino,Doença Neurológica,34,2020-06-15
 Swab,Mulungu,2020-06-07,Feminino,Sem comorbidades,75,2020-06-22
-Swab,Cruz do Espírito Santo,2020-07-15,Feminino,Sem comorbidades,1 ano,2020-08-09
 Swab,Santa Rita,2020-05-20,Feminino,Sem comorbidades,61,2020-05-27
 Teste Rápido,Catolé do Rocha,2020-06-28,Masculino,"Diabetes Mellitus,Cardiopatia",79,2020-07-20
 teste rapido,João Pessoa,2020-04-29,Feminino,"Hipertensão,Doença Neurológica",88,2020-05-09
@@ -184,29 +184,15 @@ Swab,João Pessoa,2020-04-06,Feminino,Sem comorbidades,84,2020-04-18
 Swab,Mari,2020-05-09,Masculino,"Cardiopatia,Outros",82,2020-05-23
 Teste Rápido,São João do Rio do Peixe,2020-06-20,Feminino,Hipertensão,82,2020-07-13
 Swab,Triunfo,2020-07-06,Feminino,Cardiopatia,65,2020-07-12
-Teste Rápido,Sapé,2020-05-26,Masculino,Diabetes Mellitus,82,2020-06-11
 Swab,Pedras de Fogo,2020-04-26,Feminino,"Hipertensão,Diabetes Mellitus,Cardiopatia,Obesidade",83,2020-05-04
 Swab,Campina Grande,2020-06-10,Feminino,"Hipertensão,Diabetes Mellitus",65,2020-07-08
-Swab,João Pessoa,2020-05-22,Feminino,"Hipertensão,Diabetes Mellitus",87,2020-05-30
-Teste Rápido,Campina Grande,2020-05-20,Masculino,Sem comorbidades,38,2020-08-10
-Teste Rápido,João Pessoa,2020-06-05,Masculino,Sem comorbidades,58,2020-06-07
-Teste Rápido,Alhandra,2020-07-06,Feminino,"Hipertensão,Diabetes Mellitus",67,2020-07-27
 Swab,João Pessoa,2020-05-02,Feminino,Sem comorbidades,50,2020-05-16
 Swab,Campina Grande,2020-05-19,Feminino,Cardiopatia,73,2020-06-18
-Swab,Umbuzeiro,2020-06-07,Feminino,"Hipertensão,Diabetes Mellitus",85,2020-06-26
 Swab,Santa Rita,2020-06-26,Feminino,"Doença Neurológica,Doença Respiratória",68,2020-07-01
 Swab,Patos,2020-05-16,Masculino,Sem comorbidades,79,2020-05-25
-Clinico,João Pessoa,2020-05-16,Feminino,Hipertensão,93,2020-05-29
 Swab,Patos,2020-05-05,Masculino,Sem comorbidades,67,2020-05-22
-Swab,João Pessoa,2020-04-16,Masculino,"Diabetes Mellitus,Cardiopatia,Doença Neurológica",79,2020-05-08
 Swab,João Pessoa,2020-04-07,Feminino,Sem comorbidades,93,2020-04-16
-Swab,João Pessoa,2020-04-06,Masculino,Sem comorbidades,88,2020-04-10
 Teste Rápido,Esperança,2020-06-01,Feminino,Cardiopatia,67,2020-06-21
-Swab,João Pessoa,2020-05-17,Feminino,"Diabetes Mellitus,Doença Renal,Doença Hepática",59,2020-05-24
-Teste Rápido,Guarabira,2020-07-17,Feminino,Hipertensão,49,2020-08-09
-Swab,João Pessoa,2020-03-28,Feminino,Sem comorbidades,59,2020-04-08
-Teste Rápido,Cuité de Mamanguape,2020-06-20,Masculino,Sem comorbidades,73,2020-07-13
-Swab,Campina Grande,2020-07-04,Masculino,"Hipertensão,Diabetes Mellitus",59,2020-07-19
 Swab,João Pessoa,2020-05-13,Feminino,Sem comorbidades,74,2020-05-21
 Swab,Conde,2020-06-08,Feminino,Sem comorbidades,90,2020-06-20
 Swab,Campina Grande,2020-05-21,Feminino,Sem comorbidades,82,2020-06-28
@@ -316,6 +302,7 @@ Teste Rápido,João Pessoa,2020-05-23,Masculino,"Hipertensão,Diabetes Mellitus"
 Teste Rápido,João Pessoa,2020-05-16,Masculino,"Hipertensão,Diabetes Mellitus,Doença Neurológica",68,2020-05-29
 Swab,Campina Grande,2020-08-11,Masculino,Diabetes Mellitus,60,2020-08-20
 Teste Rápido,Campina Grande,2020-06-10,Masculino,Sem comorbidades,43,2020-07-05
+Teste Rápido,Bayeux,2020-05-17,Feminino,"Hipertensão,Diabetes Mellitus,Cardiopatia",48,2020-05-28
 Teste Rápido,Cajazeiras,2020-06-10,Masculino,Sem comorbidades,71,2020-06-27
 Teste Rápido,Santa Rita,2020-05-06,Masculino,"Hipertensão,Diabetes Mellitus,Outros",53,2020-05-19
 Teste Rápido,Sapé,2020-06-04,Masculino,Sem comorbidades,77,2020-06-06
@@ -513,6 +500,7 @@ Swab,Campina Grande,2020-04-25,Masculino,Doença Neurológica,41,2020-05-09
 Teste Rápido,João Pessoa,2020-05-24,Masculino,Doença Hepática,51,2020-05-30
 Teste Rápido,João Pessoa,2020-07-08,Feminino,Imunossupressão,41,2020-07-22
 Swab,João Pessoa,2020-04-24,Feminino,"Diabetes Mellitus,Cardiopatia,Doença Renal",57,2020-05-23
+Swab,Ingá,2020-07-31,Feminino,"Diabetes Mellitus,Cardiopatia",79,2020-08-20
 Teste Rápido,Campina Grande,2020-05-20,Feminino,"Hipertensão,Diabetes Mellitus,Obesidade",64,2020-06-21
 Clinico,João Pessoa,2020-06-23,Feminino,Sem comorbidades,72,2020-07-11
 Teste Rápido,Monteiro,2020-08-23,Masculino,"Diabetes Mellitus,Cardiopatia",53,2020-08-26
@@ -569,6 +557,7 @@ Swab,Patos,2020-05-20,Feminino,Sem comorbidades,74,2020-06-08
 Swab,João Pessoa,2020-05-04,Masculino,Diabetes Mellitus,27,2020-05-10
 Teste Rápido,João Pessoa,2020-05-24,Feminino,"Hipertensão,Diabetes Mellitus",88,2020-06-12
 Swab,Santa Rita,2020-05-09,Masculino,Hipertensão,80,2020-05-13
+Clínico,Caaporã,2020-05-22,Masculino,Tabagismo,85,2020-05-29
 Teste Rápido,Emas,2020-06-16,Masculino,Hipertensão,67,2020-07-16
 Swab,Santa Rita,2020-05-21,Masculino,Cardiopatia,73,2020-05-29
 Teste Rápido,Catolé do Rocha,2020-07-28,Masculino,"Hipertensão,Doença Respiratória",65,2020-08-01
@@ -577,6 +566,7 @@ Swab,Alagoinha,2020-08-03,Feminino,Sem comorbidades,92,2020-08-08
 Teste Rápido,Rio Tinto,2020-06-10,Masculino,"Hipertensão,Tabagismo",72,2020-06-17
 Swab,Santa Rita,2020-05-07,Feminino,Cardiopatia,89,2020-05-08
 Swab,Bayeux,2020-05-13,Feminino,Sem comorbidades,76,2020-07-14
+Teste Rápido,Emas,2020-07-22,Masculino,"Hipertensão,Diabetes Mellitus",81,2020-08-27
 Teste Rápido,João Pessoa,2020-04-16,Masculino,Diabetes Mellitus,87,2020-04-16
 Teste Rápido,Cajazeiras,2020-05-21,Masculino,Sem comorbidades,86,2020-06-03
 Teste Rápido,João Pessoa,2020-06-18,Feminino,"Hipertensão,Doença Neurológica,Doença Respiratória",64,2020-06-24
@@ -638,6 +628,7 @@ Swab,João Pessoa,2020-06-04,Feminino,"Cardiopatia,Doença Respiratória",73,202
 Swab,João Pessoa,2020-05-14,Feminino,Diabetes Mellitus,70,2020-05-22
 Teste Rápido,Belém,2020-06-22,Feminino,"Hipertensão,Diabetes Mellitus",72,2020-07-05
 Swab,João Pessoa,2020-07-10,Masculino,Sem comorbidades,95,2020-07-14
+Teste Rápido,João Pessoa,2020-07-04,Masculino,Hipertensão,28,2020-07-17
 Teste Rápido,João Pessoa,2020-06-22,Masculino,"Hipertensão,Diabetes Mellitus,Cardiopatia",91,2020-07-24
 Teste Rápido,João Pessoa,2020-07-27,Feminino,"Hipertensão,Diabetes Mellitus,Cardiopatia,Doença Respiratória",67,2020-08-21
 Teste Rápido,Campina Grande,2020-06-05,Masculino,Obesidade,68,2020-06-21
@@ -671,6 +662,7 @@ Swab,João Pessoa,2020-05-02,Masculino,"Diabetes Mellitus,Cardiopatia",51,2020-0
 Swab,Coremas,2020-07-09,Feminino,Diabetes Mellitus,53,2020-07-25
 Swab,São Bento,2020-07-11,Feminino,"Hipertensão,Diabetes Mellitus",72,2020-08-07
 Swab,João Pessoa,2020-07-27,Masculino,Sem comorbidades,84,2020-08-02
+Teste Rápido,Belém,2020-08-20,Masculino,Sem comorbidades,71,2020-08-28
 Teste Rápido,Pedras de Fogo,2020-04-30,Masculino,Doença Renal,79,2020-05-16
 Swab,João Pessoa,2020-05-24,Masculino,Sem comorbidades,77,2020-05-28
 Swab,Patos,2020-05-17,Masculino,Sem comorbidades,66,2020-05-23
@@ -696,12 +688,12 @@ Teste Rápido,João Pessoa,2020-06-19,Masculino,"Hipertensão,Diabetes Mellitus,
 Swab,Conde,2020-05-06,Masculino,"Hipertensão,Diabetes Mellitus,Obesidade",37,2020-05-12
 Teste Rápido,Itapororoca,2020-04-17,Masculino,"Hipertensão,Diabetes Mellitus",43,2020-05-05
 Teste Rápido,Alagoa Grande,2020-07-17,Masculino,Sem comorbidades,81,2020-08-14
-Teste Rápido,Guarabira,2020-07-30,Masculino,Sem comorbidades,61,2020-08-14
-Teste Rápido,Mamanguape,2020-07-19,Masculino,Diabetes Mellitus,100,2020-07-28
-Swab,João Pessoa,2020-05-15,Masculino,"Hipertensão,Cardiopatia,Etilismo",54,2020-05-19
-Teste Rápido,Sapé,2020-06-01,Masculino,Diabetes Mellitus,50,2020-06-22
-Teste Rápido,Alagoa Nova,2020-06-17,Masculino,"Cardiopatia,Etilismo",64,2020-06-19
-Teste Rápido,Catolé do Rocha,2020-05-10,Masculino,Sem comorbidades,85,2020-05-25
+Swab,João Pessoa,2020-04-16,Masculino,"Diabetes Mellitus,Cardiopatia,Doença Neurológica",79,2020-05-08
+Swab,João Pessoa,2020-04-06,Masculino,Sem comorbidades,88,2020-04-10
+Swab,João Pessoa,2020-05-17,Feminino,"Diabetes Mellitus,Doença Renal,Doença Hepática",59,2020-05-24
+Teste Rápido,Guarabira,2020-07-17,Feminino,Hipertensão,49,2020-08-09
+Swab,João Pessoa,2020-03-28,Feminino,Sem comorbidades,59,2020-04-08
+Teste Rápido,Cuité de Mamanguape,2020-06-20,Masculino,Sem comorbidades,73,2020-07-13
 C. Epid.,João Pessoa,2020-03-19,Feminino,"Cardiopatia,Outros",95,2020-03-23
 Teste Rápido,João Pessoa,2020-05-14,Masculino,Diabetes Mellitus,75,2020-07-22
 Swab,Mogeiro,2020-08-08,Feminino,"Diabetes Mellitus,Doença Respiratória",56,2020-08-18
@@ -1045,6 +1037,7 @@ Teste Rápido,Cuitegi,2020-06-30,Feminino,"Hipertensão,Cardiopatia,Obesidade",8
 Swab,João Pessoa,2020-06-06,Feminino,Diabetes Mellitus,83,2020-06-12
 Teste Rápido,Sapé,2020-06-20,Feminino,"Diabetes Mellitus,Cardiopatia",77,2020-06-28
 Swab,João Pessoa,2020-05-27,Masculino,"Diabetes Mellitus,Tabagismo",68,2020-06-06
+Swab,João Pessoa,2020-06-09,Masculino,Sem comorbidades,60,2020-06-26
 Swab,Campina Grande,2020-05-05,Masculino,Hipertensão,72,2020-05-21
 Swab,Marcação,2020-07-06,Masculino,Hipertensão,82,2020-07-27
 Teste Rápido,Poço Dantas,2020-08-06,Masculino,Hipertensão,74,2020-08-24
@@ -1320,7 +1313,6 @@ Teste Rápido,João Pessoa,2020-06-24,Feminino,Doença Renal,59,2020-06-28
 SWAB,João Pessoa,2020-05-27,Feminino,"Diabetes Mellitus,Obesidade",67,2020-05-31
 Swab,Sapé,2020-06-19,Masculino,"Hipertensão,Tabagismo,Etilismo",71,2020-06-26
 Swab,João Pessoa,2020-06-12,Masculino,Sem comorbidades,68,2020-06-18
-Teste Rápido,Mataraca,2020-08-08,Feminino,Doença Neurológica,3 meses,2020-08-11
 Teste Rápido,Sousa,2020-07-09,Feminino,Hipertensão,83,2020-07-14
 Swab,João Pessoa,2020-05-05,Masculino,Diabetes Mellitus,34,2020-05-26
 Swab,Serraria,2020-05-02,Masculino,Sem comorbidades,57,2020-05-12
@@ -1472,7 +1464,6 @@ Swab,João Pessoa,2020-05-26,Masculino,Tabagismo,61,2020-06-04
 Teste Rápido,João Pessoa,2020-05-07,Masculino,Doença Renal,52,2020-05-26
 Swab,Pedras de Fogo,2020-05-20,Feminino,Sem comorbidades,77,2020-05-30
 Swab,Santa Rita,2020-04-30,Feminino,Cardiopatia,78,2020-05-02
-Swab,Uiraúna,2020-07-26,Feminino,Doença Hepática,5 meses,2020-08-22
 Swab,Cajazeiras,2020-06-05,Feminino,Sem comorbidades,84,2020-06-08
 Teste Rápido,Pedras de Fogo,2020-05-15,Feminino,Diabetes Mellitus,79,2020-06-11
 Swab,João Pessoa,2020-06-15,Masculino,"Hipertensão,Diabetes Mellitus,Cardiopatia,Doença Respiratória",74,2020-07-18
@@ -1488,6 +1479,7 @@ Swab,João Pessoa,2020-04-24,Feminino,"Doença Renal,Doença Respiratória",20,2
 Swab,João Pessoa,2020-05-21,Masculino,Hipertensão,69,2020-06-11
 Teste Rápido,Alhandra,2020-05-26,Masculino,Doença Hepática,44,2020-06-01
 Swab,João Pessoa,2020-04-22,Masculino,Sem comorbidades,39,2020-04-29
+Teste Rápido,Jacaraú,2020-08-24,Feminino,Diabetes Mellitus,75,2020-08-27
 Swab,João Pessoa,2020-05-20,Masculino,Sem comorbidades,83,2020-06-02
 Teste Rápido,Santa Rita,2020-05-05,Feminino,Sem comorbidades,68,2020-05-12
 Teste Rápido,João Pessoa,2020-05-31,Masculino,"Hipertensão,Diabetes Mellitus,Doença Neurológica",87,2020-06-12
@@ -1505,6 +1497,7 @@ Teste Rápido,João Pessoa,2020-05-27,Masculino,Cardiopatia,77,2020-07-24
 Swab,João Pessoa,2020-05-12,Feminino,Obesidade,58,2020-05-29
 Swab,São Bento,2020-06-16,Feminino,"Hipertensão,Diabetes Mellitus",74,2020-06-23
 Swab,Sapé,2020-08-04,Masculino,Sem comorbidades,46,2020-08-11
+Clinico-epidemiológico,João Pessoa,2020-06-23,Feminino,"Hipertensão,Diabetes Mellitus",61,2020-07-04
 Teste Rápido,Cruz do Espírito Santo,2020-05-09,Masculino,Sem comorbidades,78,2020-05-28
 Teste Rápido,Campina Grande,2020-05-23,Feminino,Hipertensão,73,2020-06-14
 Teste Rápido,João pessoa,2020-05-31,Feminino,"Hipertensão,Diabetes Mellitus,Cardiopatia",53,2020-06-02
@@ -1546,6 +1539,7 @@ Swab,Rio Tinto,2020-06-19,Feminino,"Neoplasia,Doença Hepática",77,2020-06-23
 Teste Rápido,Campina Grande,2020-06-25,Masculino,Sem comorbidades,68,2020-06-08
 Swab,Emas,2020-07-16,Masculino,"Hipertensão,Cardiopatia",86,2020-07-26
 Teste Rápido,Solânea,2020-08-02,Masculino,"Hipertensão,Diabetes Mellitus",91,2020-08-15
+Clínico,João Pessoa,2020-05-23,Feminino,Diabetes Mellitus,80,2020-06-07
 Swab,Nazarezinho,2020-05-29,Feminino,"Diabetes Mellitus,Doença Hematológica",61,2020-06-05
 Swab,Queimadas,2020-06-21,Feminino,"Hipertensão,Diabetes Mellitus,Cardiopatia",83,2020-07-02
 Swab,João Pessoa,2020-06-01,Feminino,Sem comorbidades,55,2020-06-09
@@ -1743,6 +1737,7 @@ Swab,São Bento,2020-07-29,Feminino,"Hipertensão,Diabetes Mellitus",85,2020-08-
 Teste Rápido,João Pessoa,2020-06-24,Masculino,Diabetes Mellitus,63,2020-07-17
 Swab,João Pessoa,2020-04-16,Masculino,"Hipertensão,Cardiopatia,Obesidade,Doença Neurológica,Doença Renal,Outros",50,2020-04-22
 Teste Rápido,João Pessoa,2020-07-25,Masculino,Imunossupressão,50,2020-08-02
+Swab,Mulungu,2020-08-18,Masculino,Hipertensão,76,2020-08-18
 Teste Rápido,São Mamede,2020-07-22,Masculino,"Hipertensão,Diabetes Mellitus",67,2020-08-22
 Swab,Sousa,2020-06-02,Feminino,Hipertensão,55,2020-06-23
 Teste Rápido,João Pessoa,2020-06-29,Feminino,"Cardiopatia,Outros",42,2020-07-09
@@ -1802,6 +1797,7 @@ Swab,Congo,2020-05-01,Feminino,Sem comorbidades,84,2020-05-08
 Teste Rápido,Pilar,2020-06-17,Feminino,"Diabetes Mellitus,Cardiopatia",70,2020-08-22
 Teste Rápido,Serra Redonda,2020-07-10,Feminino,"Hipertensão,Diabetes Mellitus,Doença Renal,Doença Respiratória,Tabagismo",66,2020-07-20
 Teste Rápido,Lucena,2020-07-21,Feminino,"Cardiopatia,Doença Neurológica",71,2020-08-10
+Teste Rápido,Cabedelo,2020-08-13,Masculino,"Tabagismo,Etilismo",52,2020-08-27
 Swab,Campina Grande,2020-05-04,Masculino,Cardiopatia,74,2020-05-09
 Swab,João Pessoa,2020-04-29,Masculino,Diabetes Mellitus,48,2020-05-14
 Teste Rápido,Bayeux,2020-05-12,Masculino,"Hipertensão,Diabetes Mellitus",53,2020-06-10
@@ -1813,7 +1809,6 @@ Teste Rápido,Cabedelo,2020-06-17,Masculino,Hipertensão,70,2020-06-22
 Teste Rápido,Mamanguape,2020-05-19,Masculino,Sem comorbidades,59,2020-05-28
 Swab,Campina Grande,2020-05-09,Masculino,Sem comorbidades,65,2020-05-24
 Swab,Santa Rita,2020-05-09,Feminino,Diabetes Mellitus,69,2020-05-13
-Swab,Jericó,2020-06-26,Feminino,Outros,1 m,2020-06-30
 Swab,Campina Grande,2020-06-19,Masculino,Cardiopatia,57,2020-07-11
 Teste Rápido,Caaporã,2020-05-18,Masculino,Doença Neurológica,40,2020-06-14
 Swab,Cuité de Mamanguape,2020-06-29,Masculino,"Tabagismo,Etilismo",47,2020-07-19
@@ -1831,6 +1826,7 @@ Teste Rápido,Barra de Santana,2020-06-22,Feminino,"Diabetes Mellitus,Neoplasia"
 Swab,Ingá,2020-06-27,Masculino,"Hipertensão,Diabetes Mellitus,Obesidade",64,2020-07-16
 Teste Rápido,João Pessoa,2020-04-25,Masculino,"Hipertensão,Cardiopatia",48,2020-05-06
 Teste Rápido,João Pessoa,2020-05-23,Feminino,"Cardiopatia,Obesidade",65,2020-05-29
+Swab,João Pessoa,2020-08-12,Masculino,"Hipertensão,Obesidade,Tabagismo",39,2020-08-27
 Swab,João Pessoa,2020-03-30,Masculino,Cardiopatia,87,2020-04-10
 Teste Rápido,João Pessoa,2020-05-22,Masculino,"Hipertensão,Doença Respiratória",82,2020-05-25
 Swab,São Bento,2020-06-08,Feminino,"Diabetes Mellitus,Obesidade",47,2020-07-01
@@ -1943,6 +1939,7 @@ Swab,João Pessoa,2020-07-11,Masculino,Diabetes Mellitus,67,2020-07-21
 Teste Rápido,João Pessoa,2020-08-10,Feminino,Diabetes Mellitus,45,2020-08-13
 Swab,João Pessoa,2020-06-10,Masculino,"Hipertensão,Diabetes Mellitus",83,2020-06-23
 Teste Rápido,Guarabira,2020-07-29,Masculino,"Hipertensão,Diabetes Mellitus",67,2020-08-04
+Swab,Cabedelo,2020-08-01,Masculino,"Diabetes Mellitus,Obesidade",84,2020-08-26
 Teste Rápido,João Pessoa,2020-05-23,Masculino,"Diabetes Mellitus,Cardiopatia,Doença Respiratória",70,2020-06-22
 Teste Rápido,João Pessoa,2020-06-20,Feminino,Sem comorbidades,103,2020-07-15
 Teste Rápido,João Pessoa,2020-05-23,Feminino,"Cardiopatia,Obesidade,Doença Renal",85,2020-06-06
@@ -2281,6 +2278,7 @@ Teste Rápido,Araruna,2020-06-07,Feminino,"Hipertensão,Obesidade",38,2020-06-14
 Swab,Santa Rita,2020-04-25,Masculino,Diabetes Mellitus,84,2020-05-19
 Teste Rápido,Gurinhém,2020-07-01,Feminino,"Diabetes Mellitus,Obesidade",58,2020-08-07
 Teste Rápido,Pedras de Fogo,2020-08-11,Masculino,Diabetes Mellitus,85,2020-08-23
+Swab,Ingá,2020-06-13,Feminino,Diabetes Mellitus,55,2020-06-18
 Swab,Campina Grande,2020-06-27,Masculino,Sem comorbidades,42,2020-07-01
 Swab,João Pessoa,2020-06-10,Masculino,"Hipertensão,Diabetes Mellitus,Cardiopatia,Obesidade",69,2020-06-27
 Teste Rápido,Pilõezinhos,2020-07-01,Feminino,"Diabetes Mellitus,Cardiopatia",46,2020-07-12
@@ -2373,10 +2371,24 @@ Teste Rápido,Alhandra,2020-06-16,Feminino,Hipertensão,36,2020-07-01
 Swab,João Pessoa,2020-05-01,Masculino,"Hipertensão,Diabetes Mellitus",82,2020-05-05
 Swab,Campina Grande,2020-05-02,Feminino,Sem comorbidades,70,2020-06-02
 Swab,João Pessoa,2020-04-26,Masculino,Doença Hepática,62,2020-05-06
+Teste Rápido,Guarabira,2020-07-30,Masculino,Sem comorbidades,61,2020-08-14
+Teste Rápido,Mamanguape,2020-07-19,Masculino,Diabetes Mellitus,100,2020-07-28
+Swab,João Pessoa,2020-05-15,Masculino,"Hipertensão,Cardiopatia,Etilismo",54,2020-05-19
+Teste Rápido,Sapé,2020-06-01,Masculino,Diabetes Mellitus,50,2020-06-22
+Teste Rápido,Alagoa Nova,2020-06-17,Masculino,"Cardiopatia,Etilismo",64,2020-06-19
+Teste Rápido,Catolé do Rocha,2020-05-10,Masculino,Sem comorbidades,85,2020-05-25
+Swab,Montadas,2020-06-22,Masculino,Sem comorbidades,90,2020-06-28
+Teste Rápido,Sapé,2020-05-26,Masculino,Diabetes Mellitus,82,2020-06-11
+Swab,João Pessoa,2020-05-22,Feminino,"Hipertensão,Diabetes Mellitus",87,2020-05-30
+Teste Rápido,Campina Grande,2020-05-20,Masculino,Sem comorbidades,38,2020-08-10
+Teste Rápido,João Pessoa,2020-06-05,Masculino,Sem comorbidades,58,2020-06-07
+Teste Rápido,Alhandra,2020-07-06,Feminino,"Hipertensão,Diabetes Mellitus",67,2020-07-27
+Swab,Umbuzeiro,2020-06-07,Feminino,"Hipertensão,Diabetes Mellitus",85,2020-06-26
+Clinico,João Pessoa,2020-05-16,Feminino,Hipertensão,93,2020-05-29
 Swab,Patos,2020-06-10,Masculino,"Hipertensão,Diabetes Mellitus",82,2020-06-26
 Teste Rápido,Guarabira,2020-06-08,Masculino,Doença Respiratória,76,2020-07-03
-Swab,Campina Grande,2020-06-28,Masculino,Sem comorbidades,88,2020-07-09
 Swab,João Pessoa,2020-06-06,Feminino,Doença Neurológica,80,2020-06-13
 Swab,Patos,2020-06-25,Feminino,"Hipertensão,Diabetes Mellitus",73,2020-07-04
 Teste Rápido,Campina Grande,2020-06-07,Masculino,Sem comorbidades,55,2020-06-24
+Swab,Campina Grande,2020-06-28,Masculino,Sem comorbidades,88,2020-07-09
 Swab,Capim,2020-06-09,Masculino,Sem comorbidades,80,2020-06-11
