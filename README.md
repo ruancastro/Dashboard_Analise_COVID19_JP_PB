@@ -49,7 +49,8 @@ Imagine que um gestor público entra hoje no Farol e quer ter a possibilidade de
    
 	 Como buscamos comparar a realidade de saúde entre diferentes municípios, poderíamos utilizar esses indicadores que foram anteriormente correlacionados através de um estudo feito no artigo [Estratificação de municípios brasileiros para avaliação de desempenho em saúde](https://www.scielo.br/scielo.php?pid=S2237-96222016000400767&script=sci_arttext) e quem sabe fazer uma nova correlação, envolvendo então as *features* descritas com novas *features* importantes para o estudo específico do avanço do COVID19.
 
-
+  ### Estratégia para a visualização de dados: 
+  
 Escolhidos  adequadamente dois municípios que queremos comparar, temos diversas abordagens para mostrar a realidade desses municípios quanto ao avanço da COVID-19.
    
    Uma abordagem que eu particularmente acho interessante seria montar um aplicativo com o *[streamlit](https://www.streamlit.io/)*  de modo que o usuário pudesse selecionar a variável para visualização através de uma *select box*, variáveis como:
@@ -61,3 +62,9 @@ Escolhidos  adequadamente dois municípios que queremos comparar, temos diversas
   Como *output*, após selecionada uma dessas variáveis, um gráfico comparativo entre os dois municípios selecionados seria apresentado.
 
 Esse tipo de abordagem é interessante pois evita a poluição visual, o que torna a visualização dos dados mais amistosa e de fácil entendimento.
+
+### Análise comparativa através de modelos epidemiológicos:
+
+  É interessante também montar uma análise comparativa entre os dois municípios escolhidos através da implementação de um modelo epidemiológico, como por exemplo o [modelo SIR](https://wikiciencias.casadasciencias.org/wiki/index.php/Modelo_SIR_em_epidemiologia), que em muitas análises está sendo utilizado no contexto da COVID-19, como por exemplo, neste repositório do GitHub : [AndresRuizCh](https://github.com/AndresRuizCh)/**[fit-data-covid19-spain](https://github.com/AndresRuizCh/fit-data-covid19-spain)**.
+  
+  Através desse tipo de abordagem podemos explorar não apenas a situação atual dos municípios, mas também fazermos especulações  à respeito de perspectivas futuras de diferentes variáveis como o número de leitos de UTI disponíveis para uso nos municípios, número de respiradores artificiais, número de contaminados pela doença, progressão do número de mortes, dentre muitas outras possibilidades de análise.
