@@ -47,4 +47,17 @@ Imagine que um gestor público entra hoje no Farol e quer ter a possibilidade de
     
    - razão de internações clínico-cirúrgicas de média complexidade
    
-	 Como buscamos comparar a realidade de saúde entre diferentes municípios, poderíamos utilizar esses indicadores que foram anteriormente correlacionados através de um estudo feito no artigo [Estratificação de municípios brasileiros para avaliação de desempenho em saúde](https://www.scielo.br/scielo.php?pid=S2237-96222016000400767&script=sci_arttext) e quem sabe fazer uma nova correlação, envolvendo então as *features* descritas com o número de contaminados pelo  COVID por exemplo.
+	 Como buscamos comparar a realidade de saúde entre diferentes municípios, poderíamos utilizar esses indicadores que foram anteriormente correlacionados através de um estudo feito no artigo [Estratificação de municípios brasileiros para avaliação de desempenho em saúde](https://www.scielo.br/scielo.php?pid=S2237-96222016000400767&script=sci_arttext) e quem sabe fazer uma nova correlação, envolvendo então as *features* descritas com novas *features* importantes para o estudo específico do avanço do COVID19.
+
+
+Escolhidos  adequadamente dois municípios que queremos comparar, temos diversas abordagens para mostrar a realidade desses municípios quanto ao avanço da COVID-19.
+   
+   Uma abordagem que eu particularmente acho interessante seria montar um aplicativo com o *[streamlit](https://www.streamlit.io/)*  de modo que o usuário pudesse selecionar a variável para visualização através de uma *select box*, variáveis como:
+ - Número de mortes;
+ - Número total de casos; 
+ - Taxa de letalidade;
+ - Número de recuperados pelo vírus.
+ 
+  Como *output*, após selecionada uma dessas variáveis, um gráfico comparativo entre os dois municípios selecionados seria apresentado.
+
+Esse tipo de abordagem é interessante pois evita a poluição visual, o que torna a visualização dos dados mais amistosa e de fácil entendimento.
